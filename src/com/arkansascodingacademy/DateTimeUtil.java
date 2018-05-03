@@ -29,6 +29,9 @@ switch(dateTime.getDayOfWeek())
             isHappyHour = true;
         }
         break;
+    case SATURDAY:
+    case SUNDAY:
+         isHappyHour = false;
 
 }
 return isHappyHour;
