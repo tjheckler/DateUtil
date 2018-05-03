@@ -1,12 +1,9 @@
 package com.arkansascodingacademy;
-
-import java.time.DayOfWeek;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.temporal.ChronoUnit;
-import java.util.Calendar;
 
-import static sun.util.calendar.BaseCalendar.MONDAY;
+
+
+
 
 @SuppressWarnings("WeakerAccess")
 public class DateTimeUtil
